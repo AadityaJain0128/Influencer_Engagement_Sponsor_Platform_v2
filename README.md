@@ -1,4 +1,7 @@
-### The objective of the Project was to build a platform to connect sponsors and influencers so that sponsors can get their product / service advertised and Influencer can get Monetary Benefit.
+## The objective of the Project was to build a platform to connect sponsors and influencers so that sponsors can get their product / service advertised and Influencer can get Monetary Benefit.
+
+## You can check the demonstration video of the Project :-
+[https://drive.google.com/file/d/1GMnFLpizsC_5Z8HxJZxJn99mjURyeM14/view?usp=sharing](https://drive.google.com/file/d/1GMnFLpizsC_5Z8HxJZxJn99mjURyeM14/view?usp=sharing)
 
 
 ### Technologies Used
@@ -41,3 +44,4 @@
   App folder contains all .py files and html templates and static files. Instance folder contains the database.db file.
      
   You can run the app using main.py file. 
+
